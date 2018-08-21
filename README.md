@@ -1,2 +1,3 @@
 # Pin4Digitos
-PIn4
+Todas as senhas de 4 digitos possive
+
